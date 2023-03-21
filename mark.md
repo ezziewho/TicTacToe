@@ -25,10 +25,9 @@
    - (W międzyczasie w celu utrzymania porządku w miejscu pracy przeniesiono repozytorium do innego folderu - stąd zmiana ścieżki)
    - Skopiowano go we właściwe miejsce, tak by uruchamiał się za każdym razem kiedy robi się commita.
    ![kopiowanie_commita](./Screenshots/kopiowanie_commita.png)
-   W katalogu dodano plik ze sprawozdaniem
+   W katalogu dodano plik ze sprawozdaniem oraz zrzutami ekranu.
    ![dodanie_sprawozdania](./Screenshots/dodanie_sprawozdania.png)
-   - Wyślij zmiany do zdalnego źródła
-   - Spróbuj wciągnąć swoją gałąź do gałęzi grupowej
-   - Zaktualizuj sprawozdanie i zrzuty o ten krok i wyślij aktualizację do zdalnego źródła (na swojej gałęzi)
-10. Wystaw Pull Request do gałęzi grupowej
-11. Zgłoś zadanie (Teams assignment - jeżeli dostępne)
+7. Wysłano zmiany do zdalnego źródła, oraz wystawiono Pull Request do gałęzi grupowej.
+![pushowanie](./Screenshots/pushowanie.png)
+
+
